@@ -47,6 +47,10 @@ pytest
 
 The tests cover each rule's edge cases (6 vs 7 points, 5 vs 6 trend points), metric direction (higher or lower is better), the assurance logic, and an end-to-end check that the planted signals are detected.
 
+## Walkthrough
+
+- [ ] 3-minute Loom walkthrough ([script ready](docs/walkthrough.md))
+
 ## Stack
 
 Python, matplotlib, pytest.
